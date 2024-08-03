@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FIrstApplication</string>
+    <string name="welcome">welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="default_web_client_id" translatable="false">981948807681-3cl43jd934m1bpfl8g6i1eugi195jc7p.apps.googleusercontent.com</string>
+
+
+</resources>
